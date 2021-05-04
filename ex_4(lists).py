@@ -7,8 +7,3 @@ for i in list_numbers:
     if i not in second_list_members:
         second_list_members.append(i)
 print(second_list_members)
-
-
-list_numbers = [4, 5, 4, 5, 6,6,6,6,6,5,5]
-x = list(set(list_numbers))
-print(x)
