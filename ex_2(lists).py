@@ -11,7 +11,4 @@ for i in range(len(list1)):
 
 
 print(result)
-# sentence = [l + k for l, k in zip(list1, list2)]
-# print(sentence)
-
 
